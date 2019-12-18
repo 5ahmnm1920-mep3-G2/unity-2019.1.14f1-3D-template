@@ -1,6 +1,6 @@
 # Template Repository for Unity3D version 2019.1.14f1
 
--### Project description: 
+### Project description: 
 Introduction/Project summary 
 
 ### Development platform: 
